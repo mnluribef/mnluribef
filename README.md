@@ -64,15 +64,6 @@ Passionate about building highly scalable web solutions, optimizing relational d
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mnluribef&show_icons=true&theme=tokyonight&count_private=true" alt="Manuel's GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mnluribef&layout=compact&theme=tokyonight" alt="Top Langs" height="180" />
-</p>
-
----
-
 ### 📬 Connect with Me
 
 * 🌐 Personal Website: [manueluribe.dev](https://manueluribe.dev)
