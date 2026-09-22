@@ -8,7 +8,7 @@ Passionate about building highly scalable web solutions, optimizing relational d
 ### 🚀 About Me
 
 * 💻 Currently available to work as a **Full Stack Developer** for freelance opportunities and full-time positions..
-* 🛠️ Core Stack: **PHP (Laravel, CodeIgniter 4)**, **JavaScript/TypeScript**, and high-performance database design.
+* 🛠️ Core Stack: **PHP (Laravel, Livewire, CodeIgniter 4)**, **Python**, **JavaScript/TypeScript (Vue.js, React, Alpine.js, Astro)**, **Tailwind CSS**, and high-performance databases **(MySQL, PostgreSQL)**..
 * ⚙️ DevOps: Linux server administration (**Ubuntu VPS**), **Nginx** configuration, **Docker**, and security (**SSL, Firewalls**).
 * 🎓 **B.S. in Computer Science** from UPT Aragua "Federico Brito Figueroa".
 * ⚡ Metric and business impact driven: reducing load times and increasing operational efficiency.
