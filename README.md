@@ -7,7 +7,7 @@ Passionate about building highly scalable web solutions, optimizing relational d
 
 ### 🚀 About Me
 
-* 💻 Currently working as a **Full Stack Developer** at **Tesari Academy** and **Wizi Academy**.
+* 💻 Currently available to work as a **Full Stack Developer** for freelance opportunities and full-time positions..
 * 🛠️ Core Stack: **PHP (Laravel, CodeIgniter 4)**, **JavaScript/TypeScript**, and high-performance database design.
 * ⚙️ DevOps: Linux server administration (**Ubuntu VPS**), **Nginx** configuration, **Docker**, and security (**SSL, Firewalls**).
 * 🎓 **B.S. in Computer Science** from UPT Aragua "Federico Brito Figueroa".
@@ -23,6 +23,7 @@ Passionate about building highly scalable web solutions, optimizing relational d
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
   <img src="https://img.shields.io/badge/CodeIgniter-EE4326?style=for-the-badge&logo=codeigniter&logoColor=white" alt="CodeIgniter" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 </p>
 
 #### Frontend
